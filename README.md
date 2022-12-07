@@ -1,5 +1,5 @@
 ## CV APP
- - Live: https://resume.naghsclick.org
+ - Live: https://resume.naghshclick.org
 
 ## :cd: How to run local
 
