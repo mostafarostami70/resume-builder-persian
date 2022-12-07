@@ -1,5 +1,5 @@
 ## CV APP
- - Live: https://cv-app-khaki.vercel.app/
+ - Live: https://resume.naghsclick.org
 
 ## :cd: How to run local
 
@@ -7,10 +7,4 @@
 - npm install  
 - npm run dev
 ```
-
-## UI
-
-### Home Video
-
-![Home](screenshots/video.gif)
 
